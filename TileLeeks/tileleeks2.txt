@@ -1,1 +1,2 @@
-
+The first stable release.
+Currently, it does not support editing text data, but that will be in the next version.
